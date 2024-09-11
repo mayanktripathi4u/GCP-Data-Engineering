@@ -1,0 +1,14 @@
+# Set Up Google Cloud Storage Bucket Notifications with Pub/Sub
+1. Create Pub/Sub Topic
+    Topic ID: notification-topic
+    Others leave default.
+2. Navigate to GCS Bucket.
+    Bucket Name: my-main-Bucket
+    Rest default.
+3. Activate Cloud Shell.
+    gsutil notification create -t TOPIC_NAME -t json BUCKET_URL
+
+    gsutil notification create -t notification-topic -f json gs://my-main-Bucket
+
+4. After this once we place a file in a bucket will get the message in Pub/Sub Topic.
+
