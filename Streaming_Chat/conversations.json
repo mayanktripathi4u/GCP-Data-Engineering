@@ -1,0 +1,144 @@
+{"senderAppType": "Courier Android", "courierId": 17935441, "fromId": 17935441, "toId": 31685802, "chatStartedByMessage": true, "orderId": 82414506, "orderStage": "RETURNED", "customerId": 31685802, "messageSentTime": "2024-02-01T10:00:56Z"}
+{"orderId": 82414506, "cityCode": "IST"}
+{"senderAppType": "Customer iOS", "customerId": 31685802, "fromId": 31685802, "toId": 17935441, "chatStartedByMessage": false, "orderId": 82414506, "orderStage": "IN_PROGRESS", "courierId": 17935441, "messageSentTime": "2024-02-01T10:01:07Z"}
+{"senderAppType": "Customer iOS", "customerId": 85223204, "fromId": 85223204, "toId": 68924298, "chatStartedByMessage": true, "orderId": 13129173, "orderStage": "IN_PROGRESS", "courierId": 68924298, "messageSentTime": "2024-02-01T10:01:53Z"}
+{"orderId": 13129173, "cityCode": "IST"}
+{"senderAppType": "Courier Android", "courierId": 37614487, "fromId": 37614487, "toId": 56464808, "chatStartedByMessage": true, "orderId": 79545352, "orderStage": "OUT_FOR_DELIVERY", "customerId": 56464808, "messageSentTime": "2024-02-01T10:02:30Z"}
+{"orderId": 79545352, "cityCode": "SYD"}
+{"senderAppType": "Courier Android", "courierId": 68924298, "fromId": 68924298, "toId": 85223204, "chatStartedByMessage": false, "orderId": 13129173, "orderStage": "AWAITING_PICKUP", "customerId": 85223204, "messageSentTime": "2024-02-01T10:02:43Z"}
+{"senderAppType": "Courier Android", "courierId": 56230356, "fromId": 56230356, "toId": 57998724, "chatStartedByMessage": true, "orderId": 44410052, "orderStage": "ACCEPTED", "customerId": 57998724, "messageSentTime": "2024-02-01T10:03:01Z"}
+{"orderId": 44410052, "cityCode": "BER"}
+{"senderAppType": "Customer iOS", "customerId": 85223204, "fromId": 85223204, "toId": 68924298, "chatStartedByMessage": false, "orderId": 13129173, "orderStage": "DELIVERED", "courierId": 68924298, "messageSentTime": "2024-02-01T10:03:08Z"}
+{"senderAppType": "Customer iOS", "customerId": 57998724, "fromId": 57998724, "toId": 56230356, "chatStartedByMessage": false, "orderId": 44410052, "orderStage": "PENDING", "courierId": 56230356, "messageSentTime": "2024-02-01T10:03:12Z"}
+{"senderAppType": "Customer iOS", "customerId": 56464808, "fromId": 56464808, "toId": 37614487, "chatStartedByMessage": false, "orderId": 79545352, "orderStage": "IN_PROGRESS", "courierId": 37614487, "messageSentTime": "2024-02-01T10:03:28Z"}
+{"senderAppType": "Courier Android", "courierId": 68924298, "fromId": 68924298, "toId": 85223204, "chatStartedByMessage": false, "orderId": 13129173, "orderStage": "DELAYED", "customerId": 85223204, "messageSentTime": "2024-02-01T10:03:30Z"}
+{"senderAppType": "Customer iOS", "customerId": 85223204, "fromId": 85223204, "toId": 68924298, "chatStartedByMessage": false, "orderId": 13129173, "orderStage": "PENDING", "courierId": 68924298, "messageSentTime": "2024-02-01T10:03:39Z"}
+{"senderAppType": "Courier Android", "courierId": 76702115, "fromId": 76702115, "toId": 53446428, "chatStartedByMessage": true, "orderId": 95524504, "orderStage": "ACCEPTED", "customerId": 53446428, "messageSentTime": "2024-02-01T10:03:39Z"}
+{"orderId": 95524504, "cityCode": "CAI"}
+{"senderAppType": "Courier Android", "courierId": 31175578, "fromId": 31175578, "toId": 48902781, "chatStartedByMessage": true, "orderId": 68326281, "orderStage": "PENDING", "customerId": 48902781, "messageSentTime": "2024-02-01T10:03:47Z"}
+{"orderId": 68326281, "cityCode": "SAN"}
+{"senderAppType": "Customer iOS", "customerId": 53446428, "fromId": 53446428, "toId": 76702115, "chatStartedByMessage": false, "orderId": 95524504, "orderStage": "DELIVERED", "courierId": 76702115, "messageSentTime": "2024-02-01T10:03:52Z"}
+{"senderAppType": "Customer iOS", "customerId": 48902781, "fromId": 48902781, "toId": 31175578, "chatStartedByMessage": false, "orderId": 68326281, "orderStage": "PENDING", "courierId": 31175578, "messageSentTime": "2024-02-01T10:03:53Z"}
+{"senderAppType": "Courier Android", "courierId": 76702115, "fromId": 76702115, "toId": 53446428, "chatStartedByMessage": false, "orderId": 95524504, "orderStage": "OUT_FOR_DELIVERY", "customerId": 53446428, "messageSentTime": "2024-02-01T10:04:01Z"}
+{"senderAppType": "Courier Android", "courierId": 56230356, "fromId": 56230356, "toId": 57998724, "chatStartedByMessage": false, "orderId": 44410052, "orderStage": "PENDING", "customerId": 57998724, "messageSentTime": "2024-02-01T10:04:04Z"}
+{"senderAppType": "Courier Android", "courierId": 31175578, "fromId": 31175578, "toId": 48902781, "chatStartedByMessage": false, "orderId": 68326281, "orderStage": "IN_PROGRESS", "customerId": 48902781, "messageSentTime": "2024-02-01T10:04:25Z"}
+{"senderAppType": "Courier Android", "courierId": 37614487, "fromId": 37614487, "toId": 56464808, "chatStartedByMessage": false, "orderId": 79545352, "orderStage": "COMPLETED", "customerId": 56464808, "messageSentTime": "2024-02-01T10:04:26Z"}
+{"senderAppType": "Courier Android", "courierId": 45035010, "fromId": 45035010, "toId": 57270753, "chatStartedByMessage": true, "orderId": 77656162, "orderStage": "AWAITING_PICKUP", "customerId": 57270753, "messageSentTime": "2024-02-01T10:04:46Z"}
+{"orderId": 77656162, "cityCode": "ROM"}
+{"senderAppType": "Customer iOS", "customerId": 53446428, "fromId": 53446428, "toId": 76702115, "chatStartedByMessage": false, "orderId": 95524504, "orderStage": "COMPLETED", "courierId": 76702115, "messageSentTime": "2024-02-01T10:04:48Z"}
+{"senderAppType": "Courier Android", "courierId": 94086979, "fromId": 94086979, "toId": 40093170, "chatStartedByMessage": true, "orderId": 81331339, "orderStage": "OUT_FOR_DELIVERY", "customerId": 40093170, "messageSentTime": "2024-02-01T10:04:49Z"}
+{"orderId": 81331339, "cityCode": "BCN"}
+{"senderAppType": "Customer iOS", "customerId": 40093170, "fromId": 40093170, "toId": 94086979, "chatStartedByMessage": false, "orderId": 81331339, "orderStage": "IN_PROGRESS", "courierId": 94086979, "messageSentTime": "2024-02-01T10:05:01Z"}
+{"senderAppType": "Courier Android", "courierId": 76702115, "fromId": 76702115, "toId": 53446428, "chatStartedByMessage": false, "orderId": 95524504, "orderStage": "IN_TRANSIT", "customerId": 53446428, "messageSentTime": "2024-02-01T10:05:27Z"}
+{"senderAppType": "Courier Android", "courierId": 17422239, "fromId": 17422239, "toId": 66940803, "chatStartedByMessage": true, "orderId": 79512375, "orderStage": "OUT_FOR_DELIVERY", "customerId": 66940803, "messageSentTime": "2024-02-01T10:05:27Z"}
+{"orderId": 79512375, "cityCode": "MAD"}
+{"senderAppType": "Customer iOS", "customerId": 57270753, "fromId": 57270753, "toId": 45035010, "chatStartedByMessage": false, "orderId": 77656162, "orderStage": "DELAYED", "courierId": 45035010, "messageSentTime": "2024-02-01T10:05:28Z"}
+{"senderAppType": "Courier Android", "courierId": 45035010, "fromId": 45035010, "toId": 57270753, "chatStartedByMessage": false, "orderId": 77656162, "orderStage": "ACCEPTED", "customerId": 57270753, "messageSentTime": "2024-02-01T10:05:31Z"}
+{"senderAppType": "Customer iOS", "customerId": 66940803, "fromId": 66940803, "toId": 17422239, "chatStartedByMessage": false, "orderId": 79512375, "orderStage": "PROCESSING", "courierId": 17422239, "messageSentTime": "2024-02-01T10:05:45Z"}
+{"senderAppType": "Courier Android", "courierId": 17422239, "fromId": 17422239, "toId": 66940803, "chatStartedByMessage": false, "orderId": 79512375, "orderStage": "PROCESSING", "customerId": 66940803, "messageSentTime": "2024-02-01T10:05:46Z"}
+{"senderAppType": "Courier Android", "courierId": 62374970, "fromId": 62374970, "toId": 37900922, "chatStartedByMessage": true, "orderId": 11314244, "orderStage": "DELAYED", "customerId": 37900922, "messageSentTime": "2024-02-01T10:06:08Z"}
+{"orderId": 11314244, "cityCode": "SIN"}
+{"senderAppType": "Customer iOS", "customerId": 57270753, "fromId": 57270753, "toId": 45035010, "chatStartedByMessage": false, "orderId": 77656162, "orderStage": "DELAYED", "courierId": 45035010, "messageSentTime": "2024-02-01T10:06:16Z"}
+{"senderAppType": "Customer iOS", "customerId": 37900922, "fromId": 37900922, "toId": 62374970, "chatStartedByMessage": false, "orderId": 11314244, "orderStage": "AWAITING_PICKUP", "courierId": 62374970, "messageSentTime": "2024-02-01T10:06:23Z"}
+{"senderAppType": "Courier Android", "courierId": 45035010, "fromId": 45035010, "toId": 57270753, "chatStartedByMessage": false, "orderId": 77656162, "orderStage": "FAILED", "customerId": 57270753, "messageSentTime": "2024-02-01T10:06:35Z"}
+{"senderAppType": "Courier Android", "courierId": 62374970, "fromId": 62374970, "toId": 37900922, "chatStartedByMessage": false, "orderId": 11314244, "orderStage": "OUT_FOR_DELIVERY", "customerId": 37900922, "messageSentTime": "2024-02-01T10:06:48Z"}
+{"senderAppType": "Customer iOS", "customerId": 92056158, "fromId": 92056158, "toId": 63918352, "chatStartedByMessage": true, "orderId": 35100301, "orderStage": "IN_TRANSIT", "courierId": 63918352, "messageSentTime": "2024-02-01T10:07:07Z"}
+{"orderId": 35100301, "cityCode": "SIN"}
+{"senderAppType": "Customer iOS", "customerId": 37900922, "fromId": 37900922, "toId": 62374970, "chatStartedByMessage": false, "orderId": 11314244, "orderStage": "IN_TRANSIT", "courierId": 62374970, "messageSentTime": "2024-02-01T10:07:16Z"}
+{"senderAppType": "Customer iOS", "customerId": 49076075, "fromId": 49076075, "toId": 98886838, "chatStartedByMessage": true, "orderId": 95717191, "orderStage": "ON_ROUTE", "courierId": 98886838, "messageSentTime": "2024-02-01T10:07:30Z"}
+{"orderId": 95717191, "cityCode": "SIN"}
+{"senderAppType": "Courier Android", "courierId": 63918352, "fromId": 63918352, "toId": 92056158, "chatStartedByMessage": false, "orderId": 35100301, "orderStage": "ARRIVED", "customerId": 92056158, "messageSentTime": "2024-02-01T10:07:40Z"}
+{"senderAppType": "Courier Android", "courierId": 62374970, "fromId": 62374970, "toId": 37900922, "chatStartedByMessage": false, "orderId": 11314244, "orderStage": "AWAITING_PICKUP", "customerId": 37900922, "messageSentTime": "2024-02-01T10:07:44Z"}
+{"senderAppType": "Customer iOS", "customerId": 92056158, "fromId": 92056158, "toId": 63918352, "chatStartedByMessage": false, "orderId": 35100301, "orderStage": "PENDING", "courierId": 63918352, "messageSentTime": "2024-02-01T10:07:50Z"}
+{"senderAppType": "Customer iOS", "customerId": 16472957, "fromId": 16472957, "toId": 31867899, "chatStartedByMessage": true, "orderId": 34150439, "orderStage": "ARRIVED", "courierId": 31867899, "messageSentTime": "2024-02-01T10:08:00Z"}
+{"orderId": 34150439, "cityCode": "MUM"}
+{"senderAppType": "Courier Android", "courierId": 31867899, "fromId": 31867899, "toId": 16472957, "chatStartedByMessage": false, "orderId": 34150439, "orderStage": "DELIVERED", "customerId": 16472957, "messageSentTime": "2024-02-01T10:08:03Z"}
+{"senderAppType": "Courier Android", "courierId": 98886838, "fromId": 98886838, "toId": 49076075, "chatStartedByMessage": false, "orderId": 95717191, "orderStage": "ARRIVED", "customerId": 49076075, "messageSentTime": "2024-02-01T10:08:12Z"}
+{"senderAppType": "Courier Android", "courierId": 63918352, "fromId": 63918352, "toId": 92056158, "chatStartedByMessage": false, "orderId": 35100301, "orderStage": "PENDING", "customerId": 92056158, "messageSentTime": "2024-02-01T10:08:17Z"}
+{"senderAppType": "Customer iOS", "customerId": 16472957, "fromId": 16472957, "toId": 31867899, "chatStartedByMessage": false, "orderId": 34150439, "orderStage": "DELAYED", "courierId": 31867899, "messageSentTime": "2024-02-01T10:08:23Z"}
+{"senderAppType": "Customer iOS", "customerId": 49076075, "fromId": 49076075, "toId": 98886838, "chatStartedByMessage": false, "orderId": 95717191, "orderStage": "PENDING", "courierId": 98886838, "messageSentTime": "2024-02-01T10:08:28Z"}
+{"senderAppType": "Courier Android", "courierId": 23833240, "fromId": 23833240, "toId": 97810497, "chatStartedByMessage": true, "orderId": 55790355, "orderStage": "AWAITING_PICKUP", "customerId": 97810497, "messageSentTime": "2024-02-01T10:08:34Z"}
+{"orderId": 55790355, "cityCode": "MEX"}
+{"senderAppType": "Courier Android", "courierId": 31867899, "fromId": 31867899, "toId": 16472957, "chatStartedByMessage": false, "orderId": 34150439, "orderStage": "DELIVERED", "customerId": 16472957, "messageSentTime": "2024-02-01T10:08:38Z"}
+{"senderAppType": "Courier Android", "courierId": 14294723, "fromId": 14294723, "toId": 47660483, "chatStartedByMessage": true, "orderId": 52066207, "orderStage": "DELAYED", "customerId": 47660483, "messageSentTime": "2024-02-01T10:08:41Z"}
+{"orderId": 52066207, "cityCode": "SAN"}
+{"senderAppType": "Customer iOS", "customerId": 92056158, "fromId": 92056158, "toId": 63918352, "chatStartedByMessage": false, "orderId": 35100301, "orderStage": "PENDING", "courierId": 63918352, "messageSentTime": "2024-02-01T10:08:44Z"}
+{"senderAppType": "Customer iOS", "customerId": 90101349, "fromId": 90101349, "toId": 33533878, "chatStartedByMessage": true, "orderId": 52389160, "orderStage": "OUT_FOR_DELIVERY", "courierId": 33533878, "messageSentTime": "2024-02-01T10:08:55Z"}
+{"orderId": 52389160, "cityCode": "CPT"}
+{"senderAppType": "Customer iOS", "customerId": 47660483, "fromId": 47660483, "toId": 14294723, "chatStartedByMessage": false, "orderId": 52066207, "orderStage": "COMPLETED", "courierId": 14294723, "messageSentTime": "2024-02-01T10:09:05Z"}
+{"senderAppType": "Customer iOS", "customerId": 16472957, "fromId": 16472957, "toId": 31867899, "chatStartedByMessage": false, "orderId": 34150439, "orderStage": "ACCEPTED", "courierId": 31867899, "messageSentTime": "2024-02-01T10:09:12Z"}
+{"senderAppType": "Customer iOS", "customerId": 97810497, "fromId": 97810497, "toId": 23833240, "chatStartedByMessage": false, "orderId": 55790355, "orderStage": "ACCEPTED", "courierId": 23833240, "messageSentTime": "2024-02-01T10:09:14Z"}
+{"senderAppType": "Courier Android", "courierId": 33533878, "fromId": 33533878, "toId": 90101349, "chatStartedByMessage": false, "orderId": 52389160, "orderStage": "ACCEPTED", "customerId": 90101349, "messageSentTime": "2024-02-01T10:09:19Z"}
+{"senderAppType": "Customer iOS", "customerId": 20250076, "fromId": 20250076, "toId": 38040751, "chatStartedByMessage": true, "orderId": 88368053, "orderStage": "DELIVERED", "courierId": 38040751, "messageSentTime": "2024-02-01T10:09:23Z"}
+{"orderId": 88368053, "cityCode": "MAD"}
+{"senderAppType": "Courier Android", "courierId": 38040751, "fromId": 38040751, "toId": 20250076, "chatStartedByMessage": false, "orderId": 88368053, "orderStage": "AWAITING_PICKUP", "customerId": 20250076, "messageSentTime": "2024-02-01T10:09:45Z"}
+{"senderAppType": "Courier Android", "courierId": 14294723, "fromId": 14294723, "toId": 47660483, "chatStartedByMessage": false, "orderId": 52066207, "orderStage": "IN_TRANSIT", "customerId": 47660483, "messageSentTime": "2024-02-01T10:09:50Z"}
+{"senderAppType": "Customer iOS", "customerId": 47660483, "fromId": 47660483, "toId": 14294723, "chatStartedByMessage": false, "orderId": 52066207, "orderStage": "ON_ROUTE", "courierId": 14294723, "messageSentTime": "2024-02-01T10:09:55Z"}
+{"senderAppType": "Customer iOS", "customerId": 20250076, "fromId": 20250076, "toId": 38040751, "chatStartedByMessage": false, "orderId": 88368053, "orderStage": "AWAITING_PICKUP", "courierId": 38040751, "messageSentTime": "2024-02-01T10:09:56Z"}
+{"senderAppType": "Courier Android", "courierId": 38040751, "fromId": 38040751, "toId": 20250076, "chatStartedByMessage": false, "orderId": 88368053, "orderStage": "AWAITING_PICKUP", "customerId": 20250076, "messageSentTime": "2024-02-01T10:10:09Z"}
+{"senderAppType": "Courier Android", "courierId": 44992503, "fromId": 44992503, "toId": 95997760, "chatStartedByMessage": true, "orderId": 55556818, "orderStage": "PENDING", "customerId": 95997760, "messageSentTime": "2024-02-01T10:10:22Z"}
+{"orderId": 55556818, "cityCode": "PAR"}
+{"senderAppType": "Customer iOS", "customerId": 91010210, "fromId": 91010210, "toId": 91127072, "chatStartedByMessage": true, "orderId": 21295818, "orderStage": "CANCELLED", "courierId": 91127072, "messageSentTime": "2024-02-01T10:10:40Z"}
+{"orderId": 21295818, "cityCode": "SIN"}
+{"senderAppType": "Courier Android", "courierId": 91127072, "fromId": 91127072, "toId": 91010210, "chatStartedByMessage": false, "orderId": 21295818, "orderStage": "PENDING", "customerId": 91010210, "messageSentTime": "2024-02-01T10:10:46Z"}
+{"senderAppType": "Customer iOS", "customerId": 95997760, "fromId": 95997760, "toId": 44992503, "chatStartedByMessage": false, "orderId": 55556818, "orderStage": "ON_ROUTE", "courierId": 44992503, "messageSentTime": "2024-02-01T10:10:49Z"}
+{"senderAppType": "Courier Android", "courierId": 44992503, "fromId": 44992503, "toId": 95997760, "chatStartedByMessage": false, "orderId": 55556818, "orderStage": "COMPLETED", "customerId": 95997760, "messageSentTime": "2024-02-01T10:10:50Z"}
+{"senderAppType": "Customer iOS", "customerId": 95997760, "fromId": 95997760, "toId": 44992503, "chatStartedByMessage": false, "orderId": 55556818, "orderStage": "COMPLETED", "courierId": 44992503, "messageSentTime": "2024-02-01T10:11:13Z"}
+{"senderAppType": "Courier Android", "courierId": 77407064, "fromId": 77407064, "toId": 90958910, "chatStartedByMessage": true, "orderId": 20468658, "orderStage": "DELIVERED", "customerId": 90958910, "messageSentTime": "2024-02-01T10:11:38Z"}
+{"orderId": 20468658, "cityCode": "MAD"}
+{"senderAppType": "Courier Android", "courierId": 91142914, "fromId": 91142914, "toId": 32337499, "chatStartedByMessage": true, "orderId": 77720090, "orderStage": "COMPLETED", "customerId": 32337499, "messageSentTime": "2024-02-01T10:11:56Z"}
+{"orderId": 77720090, "cityCode": "PAR"}
+{"senderAppType": "Courier Android", "courierId": 44992503, "fromId": 44992503, "toId": 95997760, "chatStartedByMessage": false, "orderId": 55556818, "orderStage": "ARRIVED", "customerId": 95997760, "messageSentTime": "2024-02-01T10:12:05Z"}
+{"senderAppType": "Customer iOS", "customerId": 32337499, "fromId": 32337499, "toId": 91142914, "chatStartedByMessage": false, "orderId": 77720090, "orderStage": "ACCEPTED", "courierId": 91142914, "messageSentTime": "2024-02-01T10:12:05Z"}
+{"senderAppType": "Courier Android", "courierId": 98984835, "fromId": 98984835, "toId": 93556488, "chatStartedByMessage": true, "orderId": 15121157, "orderStage": "COMPLETED", "customerId": 93556488, "messageSentTime": "2024-02-01T10:12:08Z"}
+{"orderId": 15121157, "cityCode": "MUM"}
+{"senderAppType": "Courier Android", "courierId": 63774605, "fromId": 63774605, "toId": 76190891, "chatStartedByMessage": true, "orderId": 56602373, "orderStage": "COMPLETED", "customerId": 76190891, "messageSentTime": "2024-02-01T10:12:12Z"}
+{"orderId": 56602373, "cityCode": "TOK"}
+{"senderAppType": "Customer iOS", "customerId": 90958910, "fromId": 90958910, "toId": 77407064, "chatStartedByMessage": false, "orderId": 20468658, "orderStage": "DELAYED", "courierId": 77407064, "messageSentTime": "2024-02-01T10:12:20Z"}
+{"senderAppType": "Customer iOS", "customerId": 76190891, "fromId": 76190891, "toId": 63774605, "chatStartedByMessage": false, "orderId": 56602373, "orderStage": "CANCELLED", "courierId": 63774605, "messageSentTime": "2024-02-01T10:12:20Z"}
+{"senderAppType": "Customer iOS", "customerId": 93556488, "fromId": 93556488, "toId": 98984835, "chatStartedByMessage": false, "orderId": 15121157, "orderStage": "OUT_FOR_DELIVERY", "courierId": 98984835, "messageSentTime": "2024-02-01T10:12:27Z"}
+{"senderAppType": "Courier Android", "courierId": 28208865, "fromId": 28208865, "toId": 78587216, "chatStartedByMessage": true, "orderId": 92290939, "orderStage": "DELIVERED", "customerId": 78587216, "messageSentTime": "2024-02-01T10:12:40Z"}
+{"orderId": 92290939, "cityCode": "CAI"}
+
+{"senderAppType": "Courier Android", "courierId": 31867899, "fromId": 31867899, "toId": 16472957, "chatStartedByMessage": false, "orderId": 34150439, "orderStage": "DELIVERED", "customerId": 16472957, "messageSentTime": "2024-02-01T10:08:03Z"}
+{"senderAppType": "Courier Android", "courierId": 98886838, "fromId": 98886838, "toId": 49076075, "chatStartedByMessage": false, "orderId": 95717191, "orderStage": "ARRIVED", "customerId": 49076075, "messageSentTime": "2024-02-01T10:08:12Z"}
+{"senderAppType": "Courier Android", "courierId": 63918352, "fromId": 63918352, "toId": 92056158, "chatStartedByMessage": false, "orderId": 35100301, "orderStage": "PENDING", "customerId": 92056158, "messageSentTime": "2024-02-01T10:08:17Z"}
+{"senderAppType": "Customer iOS", "customerId": 16472957, "fromId": 16472957, "toId": 31867899, "chatStartedByMessage": false, "orderId": 34150439, "orderStage": "DELAYED", "courierId": 31867899, "messageSentTime": "2024-02-01T10:08:23Z"}
+{"senderAppType": "Customer iOS", "customerId": 49076075, "fromId": 49076075, "toId": 98886838, "chatStartedByMessage": false, "orderId": 95717191, "orderStage": "PENDING", "courierId": 98886838, "messageSentTime": "2024-02-01T10:08:28Z"}
+{"senderAppType": "Courier Android", "courierId": 23833240, "fromId": 23833240, "toId": 97810497, "chatStartedByMessage": true, "orderId": 55790355, "orderStage": "AWAITING_PICKUP", "customerId": 97810497, "messageSentTime": "2024-02-01T10:08:34Z"}
+{"orderId": 55790355, "cityCode": "MEX"}
+{"senderAppType": "Courier Android", "courierId": 31867899, "fromId": 31867899, "toId": 16472957, "chatStartedByMessage": false, "orderId": 34150439, "orderStage": "DELIVERED", "customerId": 16472957, "messageSentTime": "2024-02-01T10:08:38Z"}
+{"senderAppType": "Courier Android", "courierId": 14294723, "fromId": 14294723, "toId": 47660483, "chatStartedByMessage": true, "orderId": 52066207, "orderStage": "DELAYED", "customerId": 47660483, "messageSentTime": "2024-02-01T10:08:41Z"}
+{"orderId": 52066207, "cityCode": "SAN"}
+{"senderAppType": "Customer iOS", "customerId": 92056158, "fromId": 92056158, "toId": 63918352, "chatStartedByMessage": false, "orderId": 35100301, "orderStage": "PENDING", "courierId": 63918352, "messageSentTime": "2024-02-01T10:08:44Z"}
+{"senderAppType": "Customer iOS", "customerId": 90101349, "fromId": 90101349, "toId": 33533878, "chatStartedByMessage": true, "orderId": 52389160, "orderStage": "OUT_FOR_DELIVERY", "courierId": 33533878, "messageSentTime": "2024-02-01T10:08:55Z"}
+{"orderId": 52389160, "cityCode": "CPT"}
+{"senderAppType": "Customer iOS", "customerId": 47660483, "fromId": 47660483, "toId": 14294723, "chatStartedByMessage": false, "orderId": 52066207, "orderStage": "COMPLETED", "courierId": 14294723, "messageSentTime": "2024-02-01T10:09:05Z"}
+{"senderAppType": "Customer iOS", "customerId": 16472957, "fromId": 16472957, "toId": 31867899, "chatStartedByMessage": false, "orderId": 34150439, "orderStage": "ACCEPTED", "courierId": 31867899, "messageSentTime": "2024-02-01T10:09:12Z"}
+{"senderAppType": "Customer iOS", "customerId": 97810497, "fromId": 97810497, "toId": 23833240, "chatStartedByMessage": false, "orderId": 55790355, "orderStage": "ACCEPTED", "courierId": 23833240, "messageSentTime": "2024-02-01T10:09:14Z"}
+{"senderAppType": "Courier Android", "courierId": 33533878, "fromId": 33533878, "toId": 90101349, "chatStartedByMessage": false, "orderId": 52389160, "orderStage": "ACCEPTED", "customerId": 90101349, "messageSentTime": "2024-02-01T10:09:19Z"}
+{"senderAppType": "Customer iOS", "customerId": 20250076, "fromId": 20250076, "toId": 38040751, "chatStartedByMessage": true, "orderId": 88368053, "orderStage": "DELIVERED", "courierId": 38040751, "messageSentTime": "2024-02-01T10:09:23Z"}
+{"orderId": 88368053, "cityCode": "MAD"}
+{"senderAppType": "Courier Android", "courierId": 38040751, "fromId": 38040751, "toId": 20250076, "chatStartedByMessage": false, "orderId": 88368053, "orderStage": "AWAITING_PICKUP", "customerId": 20250076, "messageSentTime": "2024-02-01T10:09:45Z"}
+{"senderAppType": "Courier Android", "courierId": 14294723, "fromId": 14294723, "toId": 47660483, "chatStartedByMessage": false, "orderId": 52066207, "orderStage": "IN_TRANSIT", "customerId": 47660483, "messageSentTime": "2024-02-01T10:09:50Z"}
+{"senderAppType": "Customer iOS", "customerId": 47660483, "fromId": 47660483, "toId": 14294723, "chatStartedByMessage": false, "orderId": 52066207, "orderStage": "ON_ROUTE", "courierId": 14294723, "messageSentTime": "2024-02-01T10:09:55Z"}
+{"senderAppType": "Customer iOS", "customerId": 20250076, "fromId": 20250076, "toId": 38040751, "chatStartedByMessage": false, "orderId": 88368053, "orderStage": "AWAITING_PICKUP", "courierId": 38040751, "messageSentTime": "2024-02-01T10:09:56Z"}
+{"senderAppType": "Courier Android", "courierId": 38040751, "fromId": 38040751, "toId": 20250076, "chatStartedByMessage": false, "orderId": 88368053, "orderStage": "AWAITING_PICKUP", "customerId": 20250076, "messageSentTime": "2024-02-01T10:10:09Z"}
+{"senderAppType": "Courier Android", "courierId": 44992503, "fromId": 44992503, "toId": 95997760, "chatStartedByMessage": true, "orderId": 55556818, "orderStage": "PENDING", "customerId": 95997760, "messageSentTime": "2024-02-01T10:10:22Z"}
+{"orderId": 55556818, "cityCode": "PAR"}
+{"senderAppType": "Customer iOS", "customerId": 91010210, "fromId": 91010210, "toId": 91127072, "chatStartedByMessage": true, "orderId": 21295818, "orderStage": "CANCELLED", "courierId": 91127072, "messageSentTime": "2024-02-01T10:10:40Z"}
+{"orderId": 21295818, "cityCode": "SIN"}
+{"senderAppType": "Courier Android", "courierId": 91127072, "fromId": 91127072, "toId": 91010210, "chatStartedByMessage": false, "orderId": 21295818, "orderStage": "PENDING", "customerId": 91010210, "messageSentTime": "2024-02-01T10:10:46Z"}
+{"senderAppType": "Customer iOS", "customerId": 95997760, "fromId": 95997760, "toId": 44992503, "chatStartedByMessage": false, "orderId": 55556818, "orderStage": "ON_ROUTE", "courierId": 44992503, "messageSentTime": "2024-02-01T10:10:49Z"}
+{"senderAppType": "Courier Android", "courierId": 44992503, "fromId": 44992503, "toId": 95997760, "chatStartedByMessage": false, "orderId": 55556818, "orderStage": "COMPLETED", "customerId": 95997760, "messageSentTime": "2024-02-01T10:10:50Z"}
+{"senderAppType": "Customer iOS", "customerId": 95997760, "fromId": 95997760, "toId": 44992503, "chatStartedByMessage": false, "orderId": 55556818, "orderStage": "COMPLETED", "courierId": 44992503, "messageSentTime": "2024-02-01T10:11:13Z"}
+{"senderAppType": "Courier Android", "courierId": 77407064, "fromId": 77407064, "toId": 90958910, "chatStartedByMessage": true, "orderId": 20468658, "orderStage": "DELIVERED", "customerId": 90958910, "messageSentTime": "2024-02-01T10:11:38Z"}
+{"orderId": 20468658, "cityCode": "MAD"}
+{"senderAppType": "Courier Android", "courierId": 91142914, "fromId": 91142914, "toId": 32337499, "chatStartedByMessage": true, "orderId": 77720090, "orderStage": "COMPLETED", "customerId": 32337499, "messageSentTime": "2024-02-01T10:11:56Z"}
+{"orderId": 77720090, "cityCode": "PAR"}
+{"senderAppType": "Courier Android", "courierId": 44992503, "fromId": 44992503, "toId": 95997760, "chatStartedByMessage": false, "orderId": 55556818, "orderStage": "ARRIVED", "customerId": 95997760, "messageSentTime": "2024-02-01T10:12:05Z"}
+{"senderAppType": "Customer iOS", "customerId": 32337499, "fromId": 32337499, "toId": 91142914, "chatStartedByMessage": false, "orderId": 77720090, "orderStage": "ACCEPTED", "courierId": 91142914, "messageSentTime": "2024-02-01T10:12:05Z"}
+{"senderAppType": "Courier Android", "courierId": 98984835, "fromId": 98984835, "toId": 93556488, "chatStartedByMessage": true, "orderId": 15121157, "orderStage": "COMPLETED", "customerId": 93556488, "messageSentTime": "2024-02-01T10:12:08Z"}
+{"orderId": 15121157, "cityCode": "MUM"}
+{"senderAppType": "Courier Android", "courierId": 63774605, "fromId": 63774605, "toId": 76190891, "chatStartedByMessage": true, "orderId": 56602373, "orderStage": "COMPLETED", "customerId": 76190891, "messageSentTime": "2024-02-01T10:12:12Z"}
+{"orderId": 56602373, "cityCode": "TOK"}

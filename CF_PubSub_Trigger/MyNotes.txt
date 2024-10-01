@@ -1,0 +1,35 @@
+Reference: https://www.youtube.com/watch?v=6KUjlNTRlJI&t=166s
+
+1. Create a Topic
+    Topic-ID: Send-messages
+        * Add a default subscription
+        * Encryption: Google-managed encryption key.
+
+    Copy the Topic name.
+
+2. From the Pub/Sub topic itself could create a Cloud Function, check for the option on top as "TRIGGER CLOUD FUNCTION".
+    * Environment: 2nd gen
+    * Function name: gen2-gcp-fun-read-pubsub-msg
+    * Region: us-central1
+    * Trigger type: Cloud Pub/Sub (default)
+    * Optionally could select "Retry on failure".
+    * Source Code: Python 
+    * RUNTIME:
+        Timeout: 120 seconds
+        rest all default
+
+<Python Code>
+```
+import base64
+import functions_framework
+
+@functions_framework.cloud_event
+def trigger_pubsub(cloud_event):
+    # Print the data from pub sub.
+    print(base64.b64decode(cloud_event.data["message"]["data]))
+    
+```
+
+----------------------------
+Refer https://www.youtube.com/watch?v=pWR0qcBQg8w
+
