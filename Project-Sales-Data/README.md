@@ -23,7 +23,14 @@ Table will be created by the GCP FUnction.
 This function will create the table, if not exists.
 
 ## Step 4: 
-In BQ, add few columns.
+In BQ, add a columns.
 SELECT *, (Quantity * UnitPrice) AS Total_Cost FROM orders ORDER BY country;
+
+Convert this query into View.
+
+Create 3 more views, specific to Country.
+SELECT * FROM <above_view> WHERE Country = "India";
+SELECT * FROM <above_view> WHERE Country = "UK";
+SELECT * FROM <above_view> WHERE Country = "US";
 
 

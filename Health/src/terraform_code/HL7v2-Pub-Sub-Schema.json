@@ -1,0 +1,53 @@
+{
+    "type": "record",
+    "name": "HL7Message",
+    "fields": [
+      {
+        "name": "MSH",
+        "type": {
+          "type": "record",
+          "name": "MSHSegment",
+          "fields": [
+            {"name": "fieldSeparator", "type": "string"},
+            {"name": "encodingCharacters", "type": "string"},
+            {"name": "sendingApplication", "type": "string"},
+            {"name": "sendingFacility", "type": "string"},
+            {"name": "receivingApplication", "type": "string"},
+            {"name": "receivingFacility", "type": "string"},
+            {"name": "datetimeOfMessage", "type": "string"},
+            {"name": "messageType", "type": "string"},
+            {"name": "messageControlID", "type": "string"},
+            {"name": "processingID", "type": "string"},
+            {"name": "versionID", "type": "string"}
+          ]
+        }
+      },
+      {
+        "name": "PID",
+        "type": {
+          "type": "record",
+          "name": "PIDSegment",
+          "fields": [
+            {"name": "setID", "type": "string"},
+            {"name": "patientID", "type": "string"},
+            {"name": "patientName", "type": "string"},
+            {"name": "dob", "type": "string"},
+            {"name": "gender", "type": "string"}
+          ]
+        }
+      },
+      {
+        "name": "OBR",
+        "type": {
+          "type": "record",
+          "name": "OBRSegment",
+          "fields": [
+            {"name": "setID", "type": "string"},
+            {"name": "universalServiceID", "type": "string"},
+            {"name": "observationDateTime", "type": "string"}
+          ]
+        }
+      }
+    ]
+  }
+  
