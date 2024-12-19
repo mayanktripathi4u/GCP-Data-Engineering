@@ -17,3 +17,13 @@ To verify that the project has been set correctly, you can run:
 ```bash
 gcloud config get-value project
 ```
+6. To set the Project, if not in the desired project.
+```bash
+gcloud config set project budgetdatabase-395201
+```
+Make sure to update the **Quota Project for Application Default Credentials**.
+To update the quota project for your Application Default Credentials, you can use the following command:
+```bash
+gcloud auth application-default set-quota-project budgetdatabase-395201
+```
+7. 

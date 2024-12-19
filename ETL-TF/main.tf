@@ -44,12 +44,16 @@ resource "google_bigquery_table" "data_table" {
 }
 
 resource "google_dataflow_job" "dataflow_job" {
-  name     = "dataflow-etl-job"
-  template = "gs://dataflow-templates/latest/Stream_Streaming_Data"
+  name               = "dataflow-etl-job"
+  template           = "gs://dataflow-templates/latest/Stream_Streaming_Data"
+  temp_gcs_location  = "gs://your-bucket-name/temp/"  # Update this to your GCS bucket for temp files
 
   parameters = {
-    "inputTopic"  = google_pubsub_topic.data_topic.id
-    "outputTable" = "${google_bigquery_dataset.data_dataset.dataset_id}.${google_bigquery_table.data_table.table_id}"
-    "project"     = var.project_id
+    "inputTopic"      = google_pubsub_topic.data_topic.id
+    "outputTable"     = "${google_bigquery_dataset.data_dataset.dataset_id}.${google_bigquery_table.data_table.table_id}"
+    "project"         = var.project_id
+    "gcs_location"    = "gs://your-bucket-name/dataflow_transform.py"  # Path to your Python file in GCS
+    "workerMachineType" = "n1-standard-1"  # Optional: Specify the machine type for Dataflow workers
   }
 }
+
