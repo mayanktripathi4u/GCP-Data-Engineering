@@ -1,0 +1,29 @@
+MSH|^~\\&|FROM_APP|FROM_FACILITY|TO_APP|TO_FACILITY|20150503223000||ADT^A01|20150503223000|P|2.5|\rEVN|A01|20110613083617|\rPID|1||21004053^^^^MRN||SULLY^BRIAN||19611209|M|||123 MAIN ST^^MOUNTAIN SPRINGS^CO^80439|\rPV1||I|H73 RM1^1^^HIGHWAY 73 CLINIC||||5148^MARY QUINN|||||||||Y||||||||||||||||||||||||||||20150503223000|\r
+
+
+
+143136712140-vhdjha36hf952gsh62qc2fdl603c55k7.apps.googleusercontent.com
+client secret: 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
+Service URL: https://ohif-viewer-143136712140.us-east1.run.app
+
+
+export PROJECT_ID=`gcloud config get-value project`
+export REGION=us-east4
+export DATASET_ID=dataset1
+export DICOM_STORE_ID=dicomstore1
+
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Deidentifying%20DICOM%20Data%20with%20the%20Healthcare%20API/quicklabgsp626.sh
+
+sudo chmod +x quicklabgsp626.sh
+
+./quicklabgsp626.sh
+
+
+
+export ZONE=us-east1-d
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Streaming%20HL7%20to%20FHIR%20Data%20with%20Dataflow%20and%20the%20Healthcare%20API/gsp894.sh
+
+sudo chmod +x gsp894.sh
+
+./gsp894.sh

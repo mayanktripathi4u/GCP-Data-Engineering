@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mllp-adapter
+  namespace: mllp-adapter
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mllp-adapter
+  template:
+    metadata:
+      labels:
+        app: mllp-adapter
+    spec:
+      containers:
+      - name: mllp-adapter
+        image: gcr.io/cloud-healthcare-containers/mllp-adapter:latest
+        ports:
+        - containerPort: 2575
+        env:
+        - name: HL7V2_STORE
+          value: "projects/your-project-id/locations/your-region/datasets/hl7v2-dataset/hl7V2Stores/hl7v2-store"
