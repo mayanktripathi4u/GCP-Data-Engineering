@@ -42,12 +42,19 @@ gcloud run deploy backend \
 ```
 12. Once deployed successfully, it will provide the Service URL which we could use, however in our case we have defined the acceess based on key, so it will fail. Right approach is to use curl command and call the url with key.
 ```bash
-curl -X POST https://backend-image-<numeric ID>.us-central1.run.app/v1/getInfo \
+curl -X POST https://backend-image-<project numeric ID>.us-central1.run.app/v1/getInfo \
 -H "X-API-KEY:axsdTypoiUYTfsv89**hqiu19&&&" \
 -H "Content-Type: application/json"
--d '{"key1": "value-1", "key2": "valie-2"}'
 ```
-13. 
+13. Check for all running servces
+```bash
+gcloud run services list --region us-central1
+```
+14. Delete any running or unwanted Cloud Run.
+```bash
+gcloud run services delete my-function --region us-central1
+```
+![alt text](image.png)
 
 gcloud auth print-access-token | docker login -u oauth2accesstoken --password-stdin https://us-central1-docker.pkg.dev
 
